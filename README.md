@@ -16,3 +16,15 @@ Could shift to Python3 but im so used to Python2
 [LeetCode Profile](https://leetcode.com/Pratik0182)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Pratik0182?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/Pratik0182)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+<!---LeetCode Topics End-->
