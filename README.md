@@ -27,4 +27,16 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Depth-First Search
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Binary Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
