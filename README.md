@@ -23,6 +23,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,4 +40,20 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
