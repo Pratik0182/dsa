@@ -33,14 +33,17 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -61,4 +64,8 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
