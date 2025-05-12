@@ -36,16 +36,19 @@ Could shift to Python3 but im so used to Python2
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -71,6 +74,7 @@ Could shift to Python3 but im so used to Python2
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Math
 |  |
