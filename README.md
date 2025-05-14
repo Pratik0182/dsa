@@ -14,7 +14,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 Could shift to Python3 but im so used to Python2
 
 ----
-[LeetCode Profile](https://leetcode.com/Pratik0182)
+[LeetCode Profile](https://leetcode.com/Pratik182)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Pratik182?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/Pratik0182)
 
