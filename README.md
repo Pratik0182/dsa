@@ -24,6 +24,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -65,6 +66,7 @@ Could shift to Python3 but im so used to Python2
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -102,6 +104,7 @@ Could shift to Python3 but im so used to Python2
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
