@@ -26,6 +26,7 @@ Could shift to Python3 but im so used to Python2
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -163,10 +164,12 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Line Sweep
 |  |
 | ------- |
@@ -175,4 +178,8 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
