@@ -91,6 +91,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik0182/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
