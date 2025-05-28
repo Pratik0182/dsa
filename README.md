@@ -48,12 +48,14 @@ Could shift to Python3 but im so used to Python2
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik0182/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik0182/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik0182/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Math
 |  |
 | ------- |
