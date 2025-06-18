@@ -99,6 +99,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik0182/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
@@ -122,6 +123,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
