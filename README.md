@@ -29,6 +29,7 @@ Could shift to Python3 but im so used to Python2
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -142,6 +143,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
@@ -209,4 +211,12 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Binary Search
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
