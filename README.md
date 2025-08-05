@@ -30,6 +30,7 @@ Could shift to Python3 but im so used to Python2
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -144,6 +145,7 @@ Could shift to Python3 but im so used to Python2
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -237,6 +239,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
 ## Recursion
 |  |
 | ------- |
