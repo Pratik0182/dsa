@@ -42,6 +42,7 @@ Could shift to Python3 but im so used to Python2
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik0182/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +239,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
