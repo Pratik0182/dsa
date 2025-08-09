@@ -107,6 +107,7 @@ Could shift to Python3 but im so used to Python2
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -227,6 +228,7 @@ Could shift to Python3 but im so used to Python2
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -253,6 +255,7 @@ Could shift to Python3 but im so used to Python2
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Probability and Statistics
