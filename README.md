@@ -110,6 +110,7 @@ Could shift to Python3 but im so used to Python2
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
+| [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik0182/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -152,6 +153,7 @@ Could shift to Python3 but im so used to Python2
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -161,6 +163,7 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -169,6 +172,7 @@ Could shift to Python3 but im so used to Python2
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Interactive
 |  |
@@ -187,6 +191,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Topological Sort
