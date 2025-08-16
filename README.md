@@ -45,6 +45,7 @@ Could shift to Python3 but im so used to Python2
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pratik0182/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Pratik0182/DSA/tree/master/3973-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Could shift to Python3 but im so used to Python2
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pratik0182/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Pratik0182/DSA/tree/master/3973-flip-square-submatrix-vertically) |
 ## Shortest Path
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Pratik0182/DSA/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
