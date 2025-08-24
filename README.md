@@ -32,6 +32,7 @@ Could shift to Python3 but im so used to Python2
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -141,6 +142,7 @@ Could shift to Python3 but im so used to Python2
 | ------- |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Pratik0182/DSA/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
@@ -275,6 +277,7 @@ Could shift to Python3 but im so used to Python2
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Pratik0182/DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
