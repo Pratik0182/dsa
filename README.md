@@ -36,6 +36,7 @@ Could shift to Python3 but im so used to Python2
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik0182/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pratik0182/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Pratik0182/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -274,6 +275,7 @@ Could shift to Python3 but im so used to Python2
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik0182/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Pratik0182/DSA/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
