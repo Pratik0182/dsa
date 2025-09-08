@@ -125,6 +125,7 @@ Could shift to Python3 but im so used to Python2
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pratik0182/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pratik0182/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pratik0182/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pratik0182/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
