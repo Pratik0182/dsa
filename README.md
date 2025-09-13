@@ -147,6 +147,7 @@ Could shift to Python3 but im so used to Python2
 | [3194-find-words-containing-character](https://github.com/Pratik0182/DSA/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/Pratik0182/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik0182/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Could shift to Python3 but im so used to Python2
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik0182/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Could shift to Python3 but im so used to Python2
 | [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik0182/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Topological Sort
 |  |
 | ------- |
