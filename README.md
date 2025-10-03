@@ -135,6 +135,7 @@ Could shift to Python3 but im so used to Python2
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik0182/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik0182/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pratik0182/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Pratik0182/DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
@@ -285,6 +286,7 @@ Could shift to Python3 but im so used to Python2
 | [1642-water-bottles](https://github.com/Pratik0182/DSA/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/Pratik0182/DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
