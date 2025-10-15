@@ -2,16 +2,13 @@
 This repo **does not** contains all my previous solves, instead i will me tracking all of my **new and future** LeetCode submissions here in a more organized way
 
 # Purpose
-- Revisit problems thoroughly
-- Track my growth
+- revisit problems thoroughly
+- track my growth
 - get used to maintaining codebases on GitHub
 
 # Language Used
-- **Python2** - ~99% of the time
-- **Python3** -  rarely when i need caching related performance benefits[@cache])
-- **Cpp** - rarely again but might show up in rare cases
-
-Could shift to Python3 but im so used to Python2
+- **Python** - used for almost all DSA implementations.
+- **C** - previously used to build core understanding of how data structures work.
 
 ----
 [LeetCode Profile](https://leetcode.com/Pratik182)
