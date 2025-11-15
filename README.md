@@ -33,6 +33,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2058-concatenation-of-array](https://github.com/Pratik0182/DSA/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pratik0182/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -286,6 +287,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Pratik0182/DSA/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/Pratik0182/DSA/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Pratik0182/DSA/tree/master/3336-water-bottles-ii) |
