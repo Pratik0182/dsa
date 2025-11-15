@@ -24,6 +24,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0485-max-consecutive-ones](https://github.com/Pratik0182/DSA/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/Pratik0182/DSA/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
