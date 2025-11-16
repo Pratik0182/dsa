@@ -27,6 +27,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0485-max-consecutive-ones](https://github.com/Pratik0182/DSA/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/Pratik0182/DSA/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
@@ -188,6 +189,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0554-brick-wall](https://github.com/Pratik0182/DSA/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
@@ -201,6 +203,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -281,6 +284,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratik0182/DSA/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
 | [2529-range-product-queries-of-powers](https://github.com/Pratik0182/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
