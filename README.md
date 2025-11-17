@@ -22,6 +22,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik0182/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -125,6 +126,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratik0182/DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
@@ -348,6 +350,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Pratik0182/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pratik0182/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pratik0182/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
