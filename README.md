@@ -24,6 +24,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik0182/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pratik0182/DSA/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/Pratik0182/DSA/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -188,6 +189,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik0182/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0554-brick-wall](https://github.com/Pratik0182/DSA/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik0182/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
