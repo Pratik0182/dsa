@@ -21,6 +21,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Pratik0182/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
@@ -127,6 +128,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pratik0182/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratik0182/DSA/tree/master/0342-power-of-four) |
