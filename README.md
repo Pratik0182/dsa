@@ -34,6 +34,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pratik0182/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pratik0182/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pratik0182/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -202,6 +203,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Pratik0182/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Pratik0182/DSA/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pratik0182/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pratik0182/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pratik0182/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
