@@ -170,6 +170,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Pratik0182/DSA/tree/master/0867-new-21-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pratik0182/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
