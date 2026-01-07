@@ -43,6 +43,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [1580-shuffle-the-array](https://github.com/Pratik0182/DSA/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1975-maximum-matrix-sum](https://github.com/Pratik0182/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/Pratik0182/DSA/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pratik0182/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -110,6 +111,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1975-maximum-matrix-sum](https://github.com/Pratik0182/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Pratik0182/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -189,6 +191,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/Pratik0182/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1975-maximum-matrix-sum](https://github.com/Pratik0182/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
