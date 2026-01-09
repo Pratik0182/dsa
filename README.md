@@ -37,6 +37,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pratik0182/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Pratik0182/DSA/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pratik0182/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pratik0182/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pratik0182/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Pratik0182/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -175,6 +176,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Pratik0182/DSA/tree/master/0867-new-21-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pratik0182/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pratik0182/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
