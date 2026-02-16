@@ -284,6 +284,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Pratik0182/DSA/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -312,6 +313,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Pratik0182/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratik0182/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
