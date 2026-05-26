@@ -171,6 +171,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Pratik0182/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pratik0182/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pratik0182/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/Pratik0182/DSA/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/Pratik0182/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
@@ -224,6 +225,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pratik0182/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratik0182/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pratik0182/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pratik0182/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik0182/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
