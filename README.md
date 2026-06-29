@@ -44,6 +44,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [1580-shuffle-the-array](https://github.com/Pratik0182/DSA/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratik0182/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratik0182/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Pratik0182/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pratik0182/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Pratik0182/DSA/tree/master/2058-concatenation-of-array) |
@@ -167,6 +168,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pratik0182/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratik0182/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik0182/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Pratik0182/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
