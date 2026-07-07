@@ -162,6 +162,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pratik0182/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Pratik0182/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
