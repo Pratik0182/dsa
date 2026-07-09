@@ -163,6 +163,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pratik0182/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pratik0182/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Pratik0182/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -180,6 +181,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [3194-find-words-containing-character](https://github.com/Pratik0182/DSA/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/Pratik0182/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pratik0182/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik0182/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -274,6 +276,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2529-range-product-queries-of-powers](https://github.com/Pratik0182/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik0182/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pratik0182/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
