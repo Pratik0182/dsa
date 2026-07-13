@@ -62,6 +62,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pratik0182/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Pratik0182/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pratik0182/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pratik0182/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik0182/DSA/tree/master/3639-zero-array-transformation-i) |
@@ -194,6 +195,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik0182/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik0182/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pratik0182/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
@@ -211,6 +213,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik0182/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pratik0182/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -254,6 +257,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik0182/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pratik0182/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik0182/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
 |  |
@@ -331,6 +335,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0645-set-mismatch](https://github.com/Pratik0182/DSA/tree/master/0645-set-mismatch) |
 | [2529-range-product-queries-of-powers](https://github.com/Pratik0182/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik0182/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pratik0182/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -350,11 +355,13 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik0182/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Pratik0182/DSA/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -409,5 +416,6 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Graph Theory
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Pratik0182/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
