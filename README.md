@@ -23,6 +23,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0051-n-queens](https://github.com/Pratik0182/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Pratik0182/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik0182/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Pratik0182/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0218-the-skyline-problem](https://github.com/Pratik0182/DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Pratik0182/DSA/tree/master/0307-range-sum-query-mutable) |
@@ -207,6 +208,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Pratik0182/DSA/tree/master/0135-candy) |
 | [0876-hand-of-straights](https://github.com/Pratik0182/DSA/tree/master/0876-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/Pratik0182/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik0182/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
