@@ -90,6 +90,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pratik0182/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratik0182/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik0182/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pratik0182/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -135,6 +136,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Pratik0182/DSA/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pratik0182/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratik0182/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik0182/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pratik0182/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Math
@@ -416,6 +418,11 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratik0182/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Pratik0182/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratik0182/DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
