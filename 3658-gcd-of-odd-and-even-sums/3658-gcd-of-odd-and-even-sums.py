@@ -11,6 +11,7 @@ class Solution:
         sumeven -> n/2(2 + 2n)
             -> n + n^2
         '''
+        '''
         so = n**2
         se = n + n**2
         def gcd(a, b):
@@ -19,3 +20,10 @@ class Solution:
             return a
         
         return gcd(so, se)
+        '''
+
+        '''
+        common factor of odd and even sum n(n) n(n + 1)
+        n and n + 1 cant be further factorized so n is hcf lmao
+        '''
+        return n
