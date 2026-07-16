@@ -147,6 +147,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik0182/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Pratik0182/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratik0182/DSA/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/Pratik0182/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0826-soup-servings](https://github.com/Pratik0182/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Pratik0182/DSA/tree/master/0867-new-21-game) |
 | [0873-guess-the-word](https://github.com/Pratik0182/DSA/tree/master/0873-guess-the-word) |
@@ -358,6 +359,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Pratik0182/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik0182/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -365,6 +367,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Pratik0182/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pratik0182/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratik0182/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
