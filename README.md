@@ -57,6 +57,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pratik0182/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Pratik0182/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pratik0182/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Pratik0182/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik0182/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Pratik0182/DSA/tree/master/3194-find-words-containing-character) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik0182/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -355,6 +356,7 @@ This repo **does not** contains all my previous solves, instead i will me tracki
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik0182/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pratik0182/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Pratik0182/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Pratik0182/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Pratik0182/DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik0182/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik0182/DSA/tree/master/3790-fruits-into-baskets-ii) |
